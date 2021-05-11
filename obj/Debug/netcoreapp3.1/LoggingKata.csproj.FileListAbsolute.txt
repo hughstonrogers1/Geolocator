@@ -1,0 +1,15 @@
+C:\Users\hughs\OneDrive\Desktop\Repo\TacoParser\LoggingKata\bin\Debug\netcoreapp3.1\LoggingKata.exe
+C:\Users\hughs\OneDrive\Desktop\Repo\TacoParser\LoggingKata\bin\Debug\netcoreapp3.1\TacoBell-US-AL.csv
+C:\Users\hughs\OneDrive\Desktop\Repo\TacoParser\LoggingKata\bin\Debug\netcoreapp3.1\LoggingKata.deps.json
+C:\Users\hughs\OneDrive\Desktop\Repo\TacoParser\LoggingKata\bin\Debug\netcoreapp3.1\LoggingKata.runtimeconfig.json
+C:\Users\hughs\OneDrive\Desktop\Repo\TacoParser\LoggingKata\bin\Debug\netcoreapp3.1\LoggingKata.runtimeconfig.dev.json
+C:\Users\hughs\OneDrive\Desktop\Repo\TacoParser\LoggingKata\bin\Debug\netcoreapp3.1\LoggingKata.dll
+C:\Users\hughs\OneDrive\Desktop\Repo\TacoParser\LoggingKata\bin\Debug\netcoreapp3.1\LoggingKata.pdb
+C:\Users\hughs\OneDrive\Desktop\Repo\TacoParser\LoggingKata\bin\Debug\netcoreapp3.1\GeoCoordinate.NetCore.dll
+C:\Users\hughs\OneDrive\Desktop\Repo\TacoParser\LoggingKata\obj\Debug\netcoreapp3.1\LoggingKata.AssemblyInfoInputs.cache
+C:\Users\hughs\OneDrive\Desktop\Repo\TacoParser\LoggingKata\obj\Debug\netcoreapp3.1\LoggingKata.AssemblyInfo.cs
+C:\Users\hughs\OneDrive\Desktop\Repo\TacoParser\LoggingKata\obj\Debug\netcoreapp3.1\LoggingKata.csproj.CoreCompileInputs.cache
+C:\Users\hughs\OneDrive\Desktop\Repo\TacoParser\LoggingKata\obj\Debug\netcoreapp3.1\LoggingKata.csproj.CopyComplete
+C:\Users\hughs\OneDrive\Desktop\Repo\TacoParser\LoggingKata\obj\Debug\netcoreapp3.1\LoggingKata.dll
+C:\Users\hughs\OneDrive\Desktop\Repo\TacoParser\LoggingKata\obj\Debug\netcoreapp3.1\LoggingKata.pdb
+C:\Users\hughs\OneDrive\Desktop\Repo\TacoParser\LoggingKata\obj\Debug\netcoreapp3.1\LoggingKata.genruntimeconfig.cache

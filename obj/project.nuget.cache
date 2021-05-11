@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "cdCYmyaaeRl9hMTi6qSB231sZR0TtBoS4lLBApiRmDbzd3umveX/3KxEDRk9ZAKQ7Tw9+0CZ5rgIVeQz/4V5EQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\hughs\\OneDrive\\Desktop\\Repo\\TacoParser\\LoggingKata\\LoggingKata.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\hughs\\.nuget\\packages\\geocoordinate.netcore\\1.0.0.1\\geocoordinate.netcore.1.0.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
